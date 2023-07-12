@@ -1,3 +1,5 @@
+# write and test a function which takes one argument (a year) and returns True if the year is a leap year, or False otherwise.
+
 def is_year_leap(year):
     # Check if the year is not divisible by 100 but divisible by 400
     if year % 100 != 0 and year % 400 != 0:
