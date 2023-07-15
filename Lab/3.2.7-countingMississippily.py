@@ -1,3 +1,5 @@
+'''write a program that uses a for loop to "count mississippily" to five. 
+Having counted to five, the program should print to the screen the final message "Ready or not, here I come!"'''
 import time
 
 # Use a for loop to count "Mississippi" up to five

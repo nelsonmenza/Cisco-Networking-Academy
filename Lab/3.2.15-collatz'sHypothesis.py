@@ -1,3 +1,6 @@
+'''Write a program which reads one natural number and executes the above steps as long as c0 remains different from 1. 
+We also want you to count the steps needed to achieve the goal. Your code should output all the intermediate values of c0, too.
+'''
 c0 = int(input("Enter a number: "))  # Read a number from the user
 step = 0  # Initialize the step count to 0
 
