@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 """Your program must:
 
 -ask the user to enter a word;

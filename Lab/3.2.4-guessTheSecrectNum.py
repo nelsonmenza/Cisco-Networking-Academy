@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 '''Task is to help the magician complete the code in the editor in such a way so that the code:
 
 will ask the user to enter an integer number;

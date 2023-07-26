@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 '''Write a program that utilizes the concept of conditional execution, takes a string as input, and:
 
 prints the sentence "Yes - Spathiphyllum is the best 

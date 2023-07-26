@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 """There once was a hat. The hat contained no rabbit, but a list of five numbers: 1, 2, 3, 4, and 5.
 
 Your task is to:

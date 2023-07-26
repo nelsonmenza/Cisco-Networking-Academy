@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 """Your task is to write a function checking whether a number is prime or not.
 
 The function:

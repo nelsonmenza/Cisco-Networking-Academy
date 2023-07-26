@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 # Write a program to remove number repetitions from a list and create a new list with unique elements only.
 
 # Input list with number repetitions

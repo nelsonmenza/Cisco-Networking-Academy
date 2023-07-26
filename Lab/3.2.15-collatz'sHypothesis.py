@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 '''Write a program which reads one natural number and executes the above steps as long as c0 remains different from 1. 
 We also want you to count the steps needed to achieve the goal. Your code should output all the intermediate values of c0, too.
 '''

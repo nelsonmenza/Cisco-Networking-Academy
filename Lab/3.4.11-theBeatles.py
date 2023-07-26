@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 """Write a program that reflects these changes and lets you practice with the concept of lists. Your task is to:
 
 step 1: create an empty list named beatles;

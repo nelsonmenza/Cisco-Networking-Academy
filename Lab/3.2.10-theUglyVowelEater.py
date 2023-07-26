@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 """Your program must:
 -ask the user to enter a word;
 -use user_word = user_word.upper() to convert the word entered by the user to upper case;
