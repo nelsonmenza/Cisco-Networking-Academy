@@ -1,3 +1,7 @@
+"""Your task is to write a program which:
+
+asks the user for two separate texts;
+checks whether, the entered texts are anagrams and prints the result."""
 str_1 = input("Enter the first string: ")
 str_2 = input("Enter the second string: ")
 
